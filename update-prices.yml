@@ -1,0 +1,42 @@
+name: Update official prices
+
+on:
+  schedule:
+    # 毎日 03:00 JST (= 前日 18:00 UTC) に実行
+    - cron: "0 18 * * *"
+  workflow_dispatch: {} # 「Actions」タブから手動実行もできるようにしておく
+
+# data/prices.json への push を許可する
+permissions:
+  contents: write
+
+concurrency:
+  group: update-prices
+  cancel-in-progress: false
+
+jobs:
+  update-prices:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run official price check
+        run: node scripts/scrape-prices.mjs
+
+      - name: Commit and push data/prices.json if changed
+        run: |
+          if git diff --quiet -- data/prices.json; then
+            echo "変化なし。コミットをスキップします。"
+            exit 0
+          fi
+          git config user.name "subox-price-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add data/prices.json
+          git commit -m "chore: update official prices ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+          git push

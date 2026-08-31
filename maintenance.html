@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>メンテナンス中</title>
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html, body {
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+  body {
+    min-height: 100vh;
+    min-height: 100dvh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN", "Yu Gothic", sans-serif;
+    color: #e2e8f0;
+    padding: 24px;
+  }
+
+  .container {
+    text-align: center;
+    width: 100%;
+    max-width: 480px;
+    margin: 0 auto;
+  }
+
+  .icon {
+    width: clamp(48px, 10vw, 72px);
+    height: clamp(48px, 10vw, 72px);
+    margin: 0 auto 24px;
+    color: #38bdf8;
+    animation: spin 3s linear infinite;
+  }
+
+  @keyframes spin {
+    from { transform: rotate(0deg); }
+    to { transform: rotate(360deg); }
+  }
+
+  h1 {
+    font-size: clamp(20px, 5vw, 28px);
+    font-weight: 700;
+    margin-bottom: 12px;
+    color: #f8fafc;
+    line-height: 1.4;
+    word-break: keep-all;
+    overflow-wrap: break-word;
+  }
+
+  p {
+    font-size: clamp(14px, 3.5vw, 16px);
+    line-height: 1.7;
+    color: #94a3b8;
+    margin-bottom: 8px;
+    word-break: keep-all;
+    overflow-wrap: break-word;
+  }
+
+  @media (max-width: 380px) {
+    body {
+      padding: 16px;
+    }
+  }
+
+  @media (min-width: 768px) {
+    .container {
+      max-width: 560px;
+    }
+  }
+</style>
+</head>
+<body>
+  <div class="container">
+    <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+      <path stroke-linecap="round" stroke-linejoin="round" d="M11.42 15.17L17.25 21A2.652 2.652 0 0021 17.25l-5.877-5.877M11.42 15.17l2.496-3.03c.317-.384.74-.626 1.208-.766M11.42 15.17l-4.655 5.653a2.548 2.548 0 11-3.586-3.586l6.837-5.63m5.108-.233c.55-.164 1.163-.188 1.743-.14a4.5 4.5 0 004.486-6.336l-3.276 3.277a3.004 3.004 0 01-2.25-2.25l3.276-3.276a4.5 4.5 0 00-6.336 4.486c.091 1.076-.071 2.264-.904 2.95l-.102.085m-1.745 1.437L5.909 7.5H4.5L2.25 3.75l1.5-1.5L7.5 4.5v1.409l4.26 4.26m-1.745 1.437l1.745-1.437m6.615 8.206L15.75 15.75M4.867 19.125h.008v.008h-.008v-.008z" />
+    </svg>
+    <h1>ただいまメンテナンス中です</h1>
+    <p>より良いサービスをご提供するため、現在システムのメンテナンスを行っております。</p>
+    <p>ご不便をおかけし申し訳ございません。しばらくお待ちください。</p>
+  </div>
+</body>
+</html>

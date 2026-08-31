@@ -1,0 +1,17 @@
+既存の firestore.rules の `service cloud.firestore { match /databases/{database}/documents { ... } }`
+ブロックの中に、次のルールを追加してください（/users/{userId} などの既存ルールはそのままで構いません。
+このアプリの実際の firestore.rules ファイルは今回アップロードされていないため、丸ごと上書きする
+ファイルではなく「追加する断片」として渡しています）。
+
+    // 参考価格データ（scripts/sync-prices-to-firestore.mjs が Admin SDK 経由で
+    // 書き込む）。誰でも読めるが、クライアントSDKからは書き込めない。
+    // Admin SDK はセキュリティルールをそもそもバイパスするので
+    // `allow write: if false;` は「エンドユーザーの端末や不正な書き込みを防ぐ」
+    // ためのものであり、GitHub Actions からの書き込みには影響しません。
+    match /prices/{docId} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+デプロイ方法（Firebase CLI が使える環境で）:
+    firebase deploy --only firestore:rules

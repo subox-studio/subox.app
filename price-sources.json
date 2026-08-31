@@ -1,0 +1,1284 @@
+{
+  "items": [
+    {
+      "id": "p_netflix",
+      "name": "Netflix",
+      "url": "https://netflix.com/",
+      "fallbackPrice": 1490,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_amzprime",
+      "name": "Amazon Prime",
+      "url": "https://amazon.co.jp/",
+      "fallbackPrice": 600,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_disney",
+      "name": "Disney+",
+      "url": "https://disneyplus.com/",
+      "fallbackPrice": 990,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_hulu",
+      "name": "Hulu",
+      "url": "https://hulu.jp/",
+      "fallbackPrice": 1026,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_appletv",
+      "name": "Apple TV+",
+      "url": "https://tv.apple.com/",
+      "fallbackPrice": 900,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_ytpremium",
+      "name": "YouTube Premium",
+      "url": "https://youtube.com/",
+      "fallbackPrice": 1280,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_unext",
+      "name": "U-NEXT",
+      "url": "https://unext.jp/",
+      "fallbackPrice": 2189,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_abema",
+      "name": "ABEMA",
+      "url": "https://abema.tv/",
+      "fallbackPrice": 960,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_dtv",
+      "name": "dTV",
+      "url": "https://video.dmkt-sp.jp/",
+      "fallbackPrice": 550,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_lemino",
+      "name": "Lemino",
+      "url": "https://lemino.docomo.ne.jp/",
+      "fallbackPrice": 990,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_tver",
+      "name": "TVer Premium",
+      "url": "https://tver.jp/",
+      "fallbackPrice": 618,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_danime",
+      "name": "dアニメストア",
+      "url": "https://anime.dmkt-sp.jp/",
+      "fallbackPrice": 440,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_nico",
+      "name": "ニコニコプレミアム",
+      "url": "https://nicovideo.jp/",
+      "fallbackPrice": 550,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_fod",
+      "name": "FODプレミアム",
+      "url": "https://fod.fujitv.co.jp/",
+      "fallbackPrice": 976,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_dazn",
+      "name": "DAZN",
+      "url": "https://dazn.com/",
+      "fallbackPrice": 4200,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_wowow",
+      "name": "WOWOW",
+      "url": "https://wowow.co.jp/",
+      "fallbackPrice": 2530,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_crunchyroll",
+      "name": "Crunchyroll",
+      "url": "https://crunchyroll.com/",
+      "fallbackPrice": 1000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_hikari_tv",
+      "name": "ひかりTV",
+      "url": "https://hikaritv.net/",
+      "fallbackPrice": 1650,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_paravi_rakuten",
+      "name": "Rakuten TV",
+      "url": "https://tv.rakuten.co.jp/",
+      "fallbackPrice": 1980,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_star_channel",
+      "name": "スターチャンネル",
+      "url": "https://star-ch.jp/",
+      "fallbackPrice": 1980,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_spotify",
+      "name": "Spotify",
+      "url": "https://spotify.com/",
+      "fallbackPrice": 980,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_applemusic",
+      "name": "Apple Music",
+      "url": "https://music.apple.com/",
+      "fallbackPrice": 1080,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_ytmusic",
+      "name": "YouTube Music",
+      "url": "https://music.youtube.com/",
+      "fallbackPrice": 980,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_amzmusic",
+      "name": "Amazon Music Unlimited",
+      "url": "https://music.amazon.co.jp/",
+      "fallbackPrice": 980,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_linemusic",
+      "name": "LINE MUSIC",
+      "url": "https://music.line.me/",
+      "fallbackPrice": 980,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_awa",
+      "name": "AWA",
+      "url": "https://awa.fm/",
+      "fallbackPrice": 980,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_radiko",
+      "name": "radikoプレミアム",
+      "url": "https://radiko.jp/",
+      "fallbackPrice": 385,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_deezer",
+      "name": "Deezer",
+      "url": "https://deezer.com/",
+      "fallbackPrice": 1080,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_soundcloudgo",
+      "name": "SoundCloud Go+",
+      "url": "https://soundcloud.com/",
+      "fallbackPrice": 1280,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_notion",
+      "name": "Notion",
+      "url": "https://notion.so/",
+      "fallbackPrice": 1200,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_slack",
+      "name": "Slack",
+      "url": "https://slack.com/",
+      "fallbackPrice": 850,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_zoom",
+      "name": "Zoom",
+      "url": "https://zoom.us/",
+      "fallbackPrice": 2000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_github",
+      "name": "GitHub Pro",
+      "url": "https://github.com/",
+      "fallbackPrice": 400,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_gitlab",
+      "name": "GitLab",
+      "url": "https://gitlab.com/",
+      "fallbackPrice": 2900,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_chatgpt",
+      "name": "ChatGPT Plus",
+      "url": "https://openai.com/",
+      "fallbackPrice": 3000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_claude",
+      "name": "Claude Pro",
+      "url": "https://claude.ai/",
+      "fallbackPrice": 3000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_gemini",
+      "name": "Google Gemini Advanced",
+      "url": "https://gemini.google.com/",
+      "fallbackPrice": 2900,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_copilotpro",
+      "name": "Microsoft Copilot Pro",
+      "url": "https://copilot.microsoft.com/",
+      "fallbackPrice": 3200,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_perplexity",
+      "name": "Perplexity Pro",
+      "url": "https://perplexity.ai/",
+      "fallbackPrice": 3000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_ms365",
+      "name": "Microsoft 365",
+      "url": "https://microsoft.com/",
+      "fallbackPrice": 1490,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_gws",
+      "name": "Google Workspace",
+      "url": "https://workspace.google.com/",
+      "fallbackPrice": 1360,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_trello",
+      "name": "Trello",
+      "url": "https://trello.com/",
+      "fallbackPrice": 500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_asana",
+      "name": "Asana",
+      "url": "https://asana.com/",
+      "fallbackPrice": 1310,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_monday",
+      "name": "monday.com",
+      "url": "https://monday.com/",
+      "fallbackPrice": 1200,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_backlog",
+      "name": "Backlog",
+      "url": "https://backlog.com/",
+      "fallbackPrice": 970,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_evernote",
+      "name": "Evernote",
+      "url": "https://evernote.com/",
+      "fallbackPrice": 1090,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_todoist",
+      "name": "Todoist",
+      "url": "https://todoist.com/",
+      "fallbackPrice": 500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_miro",
+      "name": "Miro",
+      "url": "https://miro.com/",
+      "fallbackPrice": 1000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_airtable",
+      "name": "Airtable",
+      "url": "https://airtable.com/",
+      "fallbackPrice": 1500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_zapier",
+      "name": "Zapier",
+      "url": "https://zapier.com/",
+      "fallbackPrice": 3000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_grammarly",
+      "name": "Grammarly",
+      "url": "https://grammarly.com/",
+      "fallbackPrice": 1500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_deepl",
+      "name": "DeepL Pro",
+      "url": "https://deepl.com/",
+      "fallbackPrice": 1500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_wix",
+      "name": "Wix",
+      "url": "https://wix.com/",
+      "fallbackPrice": 1500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_squarespace",
+      "name": "Squarespace",
+      "url": "https://squarespace.com/",
+      "fallbackPrice": 2900,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_wordpresscom",
+      "name": "WordPress.com",
+      "url": "https://wordpress.com/",
+      "fallbackPrice": 500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_canva",
+      "name": "Canva Pro",
+      "url": "https://canva.com/",
+      "fallbackPrice": 1200,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_figma",
+      "name": "Figma",
+      "url": "https://figma.com/",
+      "fallbackPrice": 1800,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_adobecc",
+      "name": "Adobe Creative Cloud",
+      "url": "https://adobe.com/",
+      "fallbackPrice": 6480,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_photoshop",
+      "name": "Adobe Photoshop",
+      "url": "https://adobe.com/",
+      "fallbackPrice": 2728,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_lightroom",
+      "name": "Adobe Lightroom",
+      "url": "https://adobe.com/",
+      "fallbackPrice": 1078,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_clipstudio",
+      "name": "CLIP STUDIO PAINT",
+      "url": "https://clipstudio.net/",
+      "fallbackPrice": 480,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_envato",
+      "name": "Envato Elements",
+      "url": "https://elements.envato.com/",
+      "fallbackPrice": 2900,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_filmora",
+      "name": "Filmora",
+      "url": "https://filmora.wondershare.com/",
+      "fallbackPrice": 1000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_vimeo",
+      "name": "Vimeo",
+      "url": "https://vimeo.com/",
+      "fallbackPrice": 900,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_googleone",
+      "name": "Google One",
+      "url": "https://one.google.com/",
+      "fallbackPrice": 250,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_icloud",
+      "name": "iCloud+",
+      "url": "https://icloud.com/",
+      "fallbackPrice": 130,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_dropbox",
+      "name": "Dropbox",
+      "url": "https://dropbox.com/",
+      "fallbackPrice": 1500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_onedrive",
+      "name": "OneDrive",
+      "url": "https://onedrive.live.com/",
+      "fallbackPrice": 224,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_box",
+      "name": "Box",
+      "url": "https://box.com/",
+      "fallbackPrice": 1440,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_mega",
+      "name": "MEGA",
+      "url": "https://mega.io/",
+      "fallbackPrice": 750,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_pcloud",
+      "name": "pCloud",
+      "url": "https://pcloud.com/",
+      "fallbackPrice": 500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_nikkei",
+      "name": "日経電子版",
+      "url": "https://nikkei.com/",
+      "fallbackPrice": 4277,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_newspicks",
+      "name": "NewsPicks",
+      "url": "https://newspicks.com/",
+      "fallbackPrice": 1664,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_yahoopre",
+      "name": "Yahoo!プレミアム",
+      "url": "https://yahoo.co.jp/",
+      "fallbackPrice": 508,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_asahi",
+      "name": "朝日新聞デジタル",
+      "url": "https://asahi.com/",
+      "fallbackPrice": 3800,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_yomiuri",
+      "name": "読売新聞オンライン",
+      "url": "https://yomiuri.co.jp/",
+      "fallbackPrice": 4000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_mainichi",
+      "name": "毎日新聞デジタル",
+      "url": "https://mainichi.jp/",
+      "fallbackPrice": 3000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_toyokeizai",
+      "name": "東洋経済オンライン",
+      "url": "https://toyokeizai.net/",
+      "fallbackPrice": 1500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_diamond",
+      "name": "ダイヤモンド・プレミアム",
+      "url": "https://diamond.jp/",
+      "fallbackPrice": 1650,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_wsj",
+      "name": "The Wall Street Journal",
+      "url": "https://wsj.com/",
+      "fallbackPrice": 4000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_nytimes",
+      "name": "The New York Times",
+      "url": "https://nytimes.com/",
+      "fallbackPrice": 2000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_psplus",
+      "name": "PlayStation Plus",
+      "url": "https://playstation.com/",
+      "fallbackPrice": 850,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_nso",
+      "name": "Nintendo Switch Online",
+      "url": "https://nintendo.co.jp/",
+      "fallbackPrice": 306,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_xboxgp",
+      "name": "Xbox Game Pass",
+      "url": "https://xbox.com/",
+      "fallbackPrice": 850,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_arcade",
+      "name": "Apple Arcade",
+      "url": "https://apple.com/",
+      "fallbackPrice": 900,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_eaplay",
+      "name": "EA Play",
+      "url": "https://ea.com/",
+      "fallbackPrice": 850,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_ubisoftplus",
+      "name": "Ubisoft+",
+      "url": "https://ubisoft.com/",
+      "fallbackPrice": 1650,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_geforcenow",
+      "name": "GeForce NOW",
+      "url": "https://nvidia.com/",
+      "fallbackPrice": 1310,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_amazonluna",
+      "name": "Amazon Luna",
+      "url": "https://amazon.co.jp/",
+      "fallbackPrice": 1000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_humblechoice",
+      "name": "Humble Choice",
+      "url": "https://humblebundle.com/",
+      "fallbackPrice": 1500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_fitnessplus",
+      "name": "Apple Fitness+",
+      "url": "https://apple.com/",
+      "fallbackPrice": 800,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_peloton",
+      "name": "Peloton App",
+      "url": "https://onepeloton.com/",
+      "fallbackPrice": 1490,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_calm",
+      "name": "Calm",
+      "url": "https://calm.com/",
+      "fallbackPrice": 900,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_headspace",
+      "name": "Headspace",
+      "url": "https://headspace.com/",
+      "fallbackPrice": 900,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_asken",
+      "name": "あすけんプレミアム",
+      "url": "https://asken.jp/",
+      "fallbackPrice": 480,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_finc",
+      "name": "FiNCプレミアム",
+      "url": "https://finc.com/",
+      "fallbackPrice": 480,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_duolingo",
+      "name": "Duolingo Super",
+      "url": "https://duolingo.com/",
+      "fallbackPrice": 1300,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_studysapuri",
+      "name": "スタディサプリ",
+      "url": "https://studysapuri.jp/",
+      "fallbackPrice": 1815,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_rosettastone",
+      "name": "Rosetta Stone",
+      "url": "https://rosettastone.com/",
+      "fallbackPrice": 1400,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_babbel",
+      "name": "Babbel",
+      "url": "https://babbel.com/",
+      "fallbackPrice": 1400,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_cambly",
+      "name": "Cambly",
+      "url": "https://cambly.com/",
+      "fallbackPrice": 3000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_rarejob",
+      "name": "レアジョブ英会話",
+      "url": "https://rarejob.com/",
+      "fallbackPrice": 7980,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_dmmeikaiwa",
+      "name": "DMM英会話",
+      "url": "https://dmm.com/",
+      "fallbackPrice": 6980,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_courseraplus",
+      "name": "Coursera Plus",
+      "url": "https://coursera.org/",
+      "fallbackPrice": 6000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_linkedinlearning",
+      "name": "LinkedIn Learning",
+      "url": "https://linkedin.com/",
+      "fallbackPrice": 2700,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_schoo",
+      "name": "Schoo",
+      "url": "https://schoo.jp/",
+      "fallbackPrice": 980,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_kindleul",
+      "name": "Kindle Unlimited",
+      "url": "https://amazon.co.jp/",
+      "fallbackPrice": 980,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_dbook",
+      "name": "dブック",
+      "url": "https://book.dmkt-sp.jp/",
+      "fallbackPrice": 550,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_dmagazine",
+      "name": "dマガジン",
+      "url": "https://magazine.dmkt-sp.jp/",
+      "fallbackPrice": 440,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_rakutenmagazine",
+      "name": "楽天マガジン",
+      "url": "https://magazine.rakuten.co.jp/",
+      "fallbackPrice": 418,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_bookhodai",
+      "name": "ブック放題",
+      "url": "https://bookhodai.jp/",
+      "fallbackPrice": 500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_cmoa",
+      "name": "コミックシーモア読み放題",
+      "url": "https://cmoa.jp/",
+      "fallbackPrice": 780,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_audible",
+      "name": "Audible",
+      "url": "https://audible.co.jp/",
+      "fallbackPrice": 1500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_moneyforward",
+      "name": "マネーフォワード ME プレミアム",
+      "url": "https://moneyforward.com/",
+      "fallbackPrice": 500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_zaim",
+      "name": "Zaimプレミアム",
+      "url": "https://zaim.net/",
+      "fallbackPrice": 480,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_freee",
+      "name": "freee会計",
+      "url": "https://freee.co.jp/",
+      "fallbackPrice": 2680,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_yayoi",
+      "name": "弥生会計 オンライン",
+      "url": "https://yayoi-kk.co.jp/",
+      "fallbackPrice": 2864,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_bloomberg",
+      "name": "Bloomberg",
+      "url": "https://bloomberg.co.jp/",
+      "fallbackPrice": 4000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_nordvpn",
+      "name": "NordVPN",
+      "url": "https://nordvpn.com/",
+      "fallbackPrice": 500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_expressvpn",
+      "name": "ExpressVPN",
+      "url": "https://expressvpn.com/",
+      "fallbackPrice": 1000,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_surfshark",
+      "name": "Surfshark",
+      "url": "https://surfshark.com/",
+      "fallbackPrice": 400,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_1password",
+      "name": "1Password",
+      "url": "https://1password.com/",
+      "fallbackPrice": 500,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_lastpass",
+      "name": "LastPass",
+      "url": "https://lastpass.com/",
+      "fallbackPrice": 400,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_bitwarden",
+      "name": "Bitwarden",
+      "url": "https://bitwarden.com/",
+      "fallbackPrice": 130,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_norton360",
+      "name": "ノートン 360",
+      "url": "https://norton.com/",
+      "fallbackPrice": 900,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_mcafee",
+      "name": "McAfee",
+      "url": "https://mcafee.com/",
+      "fallbackPrice": 800,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_eset",
+      "name": "ESET",
+      "url": "https://eset.com/",
+      "fallbackPrice": 600,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    },
+    {
+      "id": "p_virusbuster",
+      "name": "ウイルスバスター クラウド",
+      "url": "https://trendmicro.com/",
+      "fallbackPrice": 600,
+      "currency": "JPY",
+      "selector": null,
+      "regex": null,
+      "verified": false
+    }
+  ]
+}
