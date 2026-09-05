@@ -1,0 +1,900 @@
+{
+  "generatedAt": "2026-08-31T07:18:18.215Z",
+  "note": "Initial seed committed at feature launch, using the app's bundled reference prices as a starting baseline. The scheduled GitHub Action (scripts/scrape-prices.mjs) will overwrite this with real fetched values on its next run.",
+  "items": [
+    {
+      "id": "p_netflix",
+      "status": "ok",
+      "price": 1490,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_amzprime",
+      "status": "ok",
+      "price": 600,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_disney",
+      "status": "ok",
+      "price": 990,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_hulu",
+      "status": "ok",
+      "price": 1026,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_appletv",
+      "status": "ok",
+      "price": 900,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_ytpremium",
+      "status": "ok",
+      "price": 1280,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_unext",
+      "status": "ok",
+      "price": 2189,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_abema",
+      "status": "ok",
+      "price": 960,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_dtv",
+      "status": "ok",
+      "price": 550,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_lemino",
+      "status": "ok",
+      "price": 990,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_tver",
+      "status": "ok",
+      "price": 618,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_danime",
+      "status": "ok",
+      "price": 440,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_nico",
+      "status": "ok",
+      "price": 550,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_fod",
+      "status": "ok",
+      "price": 976,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_dazn",
+      "status": "ok",
+      "price": 4200,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_wowow",
+      "status": "ok",
+      "price": 2530,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_crunchyroll",
+      "status": "ok",
+      "price": 1000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_hikari_tv",
+      "status": "ok",
+      "price": 1650,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_paravi_rakuten",
+      "status": "ok",
+      "price": 1980,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_star_channel",
+      "status": "ok",
+      "price": 1980,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_spotify",
+      "status": "ok",
+      "price": 980,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_applemusic",
+      "status": "ok",
+      "price": 1080,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_ytmusic",
+      "status": "ok",
+      "price": 980,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_amzmusic",
+      "status": "ok",
+      "price": 980,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_linemusic",
+      "status": "ok",
+      "price": 980,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_awa",
+      "status": "ok",
+      "price": 980,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_radiko",
+      "status": "ok",
+      "price": 385,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_deezer",
+      "status": "ok",
+      "price": 1080,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_soundcloudgo",
+      "status": "ok",
+      "price": 1280,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_notion",
+      "status": "ok",
+      "price": 1200,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_slack",
+      "status": "ok",
+      "price": 850,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_zoom",
+      "status": "ok",
+      "price": 2000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_github",
+      "status": "ok",
+      "price": 400,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_gitlab",
+      "status": "ok",
+      "price": 2900,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_chatgpt",
+      "status": "ok",
+      "price": 3000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_claude",
+      "status": "ok",
+      "price": 3000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_gemini",
+      "status": "ok",
+      "price": 2900,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_copilotpro",
+      "status": "ok",
+      "price": 3200,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_perplexity",
+      "status": "ok",
+      "price": 3000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_ms365",
+      "status": "ok",
+      "price": 1490,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_gws",
+      "status": "ok",
+      "price": 1360,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_trello",
+      "status": "ok",
+      "price": 500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_asana",
+      "status": "ok",
+      "price": 1310,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_monday",
+      "status": "ok",
+      "price": 1200,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_backlog",
+      "status": "ok",
+      "price": 970,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_evernote",
+      "status": "ok",
+      "price": 1090,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_todoist",
+      "status": "ok",
+      "price": 500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_miro",
+      "status": "ok",
+      "price": 1000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_airtable",
+      "status": "ok",
+      "price": 1500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_zapier",
+      "status": "ok",
+      "price": 3000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_grammarly",
+      "status": "ok",
+      "price": 1500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_deepl",
+      "status": "ok",
+      "price": 1500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_wix",
+      "status": "ok",
+      "price": 1500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_squarespace",
+      "status": "ok",
+      "price": 2900,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_wordpresscom",
+      "status": "ok",
+      "price": 500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_canva",
+      "status": "ok",
+      "price": 1200,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_figma",
+      "status": "ok",
+      "price": 1800,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_adobecc",
+      "status": "ok",
+      "price": 6480,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_photoshop",
+      "status": "ok",
+      "price": 2728,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_lightroom",
+      "status": "ok",
+      "price": 1078,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_clipstudio",
+      "status": "ok",
+      "price": 480,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_envato",
+      "status": "ok",
+      "price": 2900,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_filmora",
+      "status": "ok",
+      "price": 1000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_vimeo",
+      "status": "ok",
+      "price": 900,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_googleone",
+      "status": "ok",
+      "price": 250,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_icloud",
+      "status": "ok",
+      "price": 130,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_dropbox",
+      "status": "ok",
+      "price": 1500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_onedrive",
+      "status": "ok",
+      "price": 224,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_box",
+      "status": "ok",
+      "price": 1440,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_mega",
+      "status": "ok",
+      "price": 750,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_pcloud",
+      "status": "ok",
+      "price": 500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_nikkei",
+      "status": "ok",
+      "price": 4277,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_newspicks",
+      "status": "ok",
+      "price": 1664,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_yahoopre",
+      "status": "ok",
+      "price": 508,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_asahi",
+      "status": "ok",
+      "price": 3800,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_yomiuri",
+      "status": "ok",
+      "price": 4000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_mainichi",
+      "status": "ok",
+      "price": 3000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_toyokeizai",
+      "status": "ok",
+      "price": 1500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_diamond",
+      "status": "ok",
+      "price": 1650,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_wsj",
+      "status": "ok",
+      "price": 4000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_nytimes",
+      "status": "ok",
+      "price": 2000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_psplus",
+      "status": "ok",
+      "price": 850,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_nso",
+      "status": "ok",
+      "price": 306,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_xboxgp",
+      "status": "ok",
+      "price": 850,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_arcade",
+      "status": "ok",
+      "price": 900,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_eaplay",
+      "status": "ok",
+      "price": 850,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_ubisoftplus",
+      "status": "ok",
+      "price": 1650,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_geforcenow",
+      "status": "ok",
+      "price": 1310,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_amazonluna",
+      "status": "ok",
+      "price": 1000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_humblechoice",
+      "status": "ok",
+      "price": 1500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_fitnessplus",
+      "status": "ok",
+      "price": 800,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_peloton",
+      "status": "ok",
+      "price": 1490,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_calm",
+      "status": "ok",
+      "price": 900,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_headspace",
+      "status": "ok",
+      "price": 900,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_asken",
+      "status": "ok",
+      "price": 480,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_finc",
+      "status": "ok",
+      "price": 480,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_duolingo",
+      "status": "ok",
+      "price": 1300,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_studysapuri",
+      "status": "ok",
+      "price": 1815,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_rosettastone",
+      "status": "ok",
+      "price": 1400,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_babbel",
+      "status": "ok",
+      "price": 1400,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_cambly",
+      "status": "ok",
+      "price": 3000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_rarejob",
+      "status": "ok",
+      "price": 7980,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_dmmeikaiwa",
+      "status": "ok",
+      "price": 6980,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_courseraplus",
+      "status": "ok",
+      "price": 6000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_linkedinlearning",
+      "status": "ok",
+      "price": 2700,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_schoo",
+      "status": "ok",
+      "price": 980,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_kindleul",
+      "status": "ok",
+      "price": 980,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_dbook",
+      "status": "ok",
+      "price": 550,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_dmagazine",
+      "status": "ok",
+      "price": 440,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_rakutenmagazine",
+      "status": "ok",
+      "price": 418,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_bookhodai",
+      "status": "ok",
+      "price": 500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_cmoa",
+      "status": "ok",
+      "price": 780,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_audible",
+      "status": "ok",
+      "price": 1500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_moneyforward",
+      "status": "ok",
+      "price": 500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_zaim",
+      "status": "ok",
+      "price": 480,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_freee",
+      "status": "ok",
+      "price": 2680,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_yayoi",
+      "status": "ok",
+      "price": 2864,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_bloomberg",
+      "status": "ok",
+      "price": 4000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_nordvpn",
+      "status": "ok",
+      "price": 500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_expressvpn",
+      "status": "ok",
+      "price": 1000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_surfshark",
+      "status": "ok",
+      "price": 400,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_1password",
+      "status": "ok",
+      "price": 500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_lastpass",
+      "status": "ok",
+      "price": 400,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_bitwarden",
+      "status": "ok",
+      "price": 130,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_norton360",
+      "status": "ok",
+      "price": 900,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_mcafee",
+      "status": "ok",
+      "price": 800,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_eset",
+      "status": "ok",
+      "price": 600,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_virusbuster",
+      "status": "ok",
+      "price": 600,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_ahamo",
+      "status": "ok",
+      "price": 2970,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_linemo",
+      "status": "ok",
+      "price": 2970,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_uqmobile",
+      "status": "ok",
+      "price": 2090,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_ymobile",
+      "status": "ok",
+      "price": 3278,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_rakutenmobile",
+      "status": "ok",
+      "price": 2178,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_mineo",
+      "status": "ok",
+      "price": 1518,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_iijmio",
+      "status": "ok",
+      "price": 990,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_biglobemobile",
+      "status": "ok",
+      "price": 1320,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_nuromobile",
+      "status": "ok",
+      "price": 792,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_broadwimax",
+      "status": "ok",
+      "price": 3894,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_docomohikari",
+      "status": "ok",
+      "price": 5720,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_softbankhikari",
+      "status": "ok",
+      "price": 5720,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_nurohikari",
+      "status": "ok",
+      "price": 5200,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_kenminkyosai",
+      "status": "ok",
+      "price": 2000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_coopkyosai",
+      "status": "ok",
+      "price": 1000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_mobilehoken",
+      "status": "ok",
+      "price": 700,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_ausonpo_phone",
+      "status": "ok",
+      "price": 500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_justincase",
+      "status": "ok",
+      "price": 500,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_anicom",
+      "status": "ok",
+      "price": 2160,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_ipet",
+      "status": "ok",
+      "price": 2000,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    },
+    {
+      "id": "p_rakutensonpo_pet",
+      "status": "ok",
+      "price": 1980,
+      "checkedAt": "2026-08-31T07:18:18.215Z"
+    }
+  ]
+}

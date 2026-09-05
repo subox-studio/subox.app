@@ -1,0 +1,1074 @@
+[
+  {
+    "id": "p_netflix",
+    "name": "Netflix",
+    "aliases": [
+      "ネットフリックス"
+    ]
+  },
+  {
+    "id": "p_amzprime",
+    "name": "Amazon Prime",
+    "aliases": [
+      "アマゾンプライム",
+      "プライムビデオ",
+      "Prime Video"
+    ]
+  },
+  {
+    "id": "p_disney",
+    "name": "Disney+",
+    "aliases": [
+      "ディズニープラス",
+      "Disney Plus"
+    ]
+  },
+  {
+    "id": "p_hulu",
+    "name": "Hulu",
+    "aliases": [
+      "フールー"
+    ]
+  },
+  {
+    "id": "p_appletv",
+    "name": "Apple TV+",
+    "aliases": [
+      "Apple TV Plus"
+    ]
+  },
+  {
+    "id": "p_ytpremium",
+    "name": "YouTube Premium",
+    "aliases": [
+      "ユーチューブプレミアム"
+    ]
+  },
+  {
+    "id": "p_unext",
+    "name": "U-NEXT",
+    "aliases": []
+  },
+  {
+    "id": "p_abema",
+    "name": "ABEMA",
+    "aliases": []
+  },
+  {
+    "id": "p_dtv",
+    "name": "dTV",
+    "aliases": []
+  },
+  {
+    "id": "p_lemino",
+    "name": "Lemino",
+    "aliases": []
+  },
+  {
+    "id": "p_tver",
+    "name": "TVer Premium",
+    "aliases": []
+  },
+  {
+    "id": "p_danime",
+    "name": "dアニメストア",
+    "aliases": []
+  },
+  {
+    "id": "p_nico",
+    "name": "ニコニコプレミアム",
+    "aliases": []
+  },
+  {
+    "id": "p_fod",
+    "name": "FODプレミアム",
+    "aliases": []
+  },
+  {
+    "id": "p_dazn",
+    "name": "DAZN",
+    "aliases": [
+      "ダゾーン"
+    ]
+  },
+  {
+    "id": "p_wowow",
+    "name": "WOWOW",
+    "aliases": []
+  },
+  {
+    "id": "p_crunchyroll",
+    "name": "Crunchyroll",
+    "aliases": []
+  },
+  {
+    "id": "p_hikari_tv",
+    "name": "ひかりTV",
+    "aliases": []
+  },
+  {
+    "id": "p_paravi_rakuten",
+    "name": "Rakuten TV",
+    "aliases": []
+  },
+  {
+    "id": "p_star_channel",
+    "name": "スターチャンネル",
+    "aliases": []
+  },
+  {
+    "id": "p_skyperfectv",
+    "name": "スカパー!",
+    "aliases": [
+      "スカパー"
+    ]
+  },
+  {
+    "id": "p_jsports",
+    "name": "J SPORTS",
+    "aliases": []
+  },
+  {
+    "id": "p_spotify",
+    "name": "Spotify",
+    "aliases": [
+      "スポティファイ"
+    ]
+  },
+  {
+    "id": "p_applemusic",
+    "name": "Apple Music",
+    "aliases": []
+  },
+  {
+    "id": "p_ytmusic",
+    "name": "YouTube Music",
+    "aliases": []
+  },
+  {
+    "id": "p_amzmusic",
+    "name": "Amazon Music Unlimited",
+    "aliases": []
+  },
+  {
+    "id": "p_linemusic",
+    "name": "LINE MUSIC",
+    "aliases": []
+  },
+  {
+    "id": "p_awa",
+    "name": "AWA",
+    "aliases": []
+  },
+  {
+    "id": "p_radiko",
+    "name": "radikoプレミアム",
+    "aliases": []
+  },
+  {
+    "id": "p_deezer",
+    "name": "Deezer",
+    "aliases": []
+  },
+  {
+    "id": "p_soundcloudgo",
+    "name": "SoundCloud Go+",
+    "aliases": []
+  },
+  {
+    "id": "p_tidal",
+    "name": "Tidal",
+    "aliases": []
+  },
+  {
+    "id": "p_notion",
+    "name": "Notion",
+    "aliases": []
+  },
+  {
+    "id": "p_slack",
+    "name": "Slack",
+    "aliases": []
+  },
+  {
+    "id": "p_zoom",
+    "name": "Zoom",
+    "aliases": []
+  },
+  {
+    "id": "p_github",
+    "name": "GitHub Pro",
+    "aliases": []
+  },
+  {
+    "id": "p_gitlab",
+    "name": "GitLab",
+    "aliases": []
+  },
+  {
+    "id": "p_chatgpt",
+    "name": "ChatGPT Plus",
+    "aliases": [
+      "ChatGPT",
+      "チャットGPT"
+    ]
+  },
+  {
+    "id": "p_claude",
+    "name": "Claude Pro",
+    "aliases": [
+      "Claude",
+      "クロード"
+    ]
+  },
+  {
+    "id": "p_gemini",
+    "name": "Google Gemini Advanced",
+    "aliases": [
+      "Gemini"
+    ]
+  },
+  {
+    "id": "p_copilotpro",
+    "name": "Microsoft Copilot Pro",
+    "aliases": [
+      "Copilot Pro"
+    ]
+  },
+  {
+    "id": "p_perplexity",
+    "name": "Perplexity Pro",
+    "aliases": []
+  },
+  {
+    "id": "p_ms365",
+    "name": "Microsoft 365",
+    "aliases": [
+      "Office 365"
+    ]
+  },
+  {
+    "id": "p_gws",
+    "name": "Google Workspace",
+    "aliases": []
+  },
+  {
+    "id": "p_trello",
+    "name": "Trello",
+    "aliases": []
+  },
+  {
+    "id": "p_asana",
+    "name": "Asana",
+    "aliases": []
+  },
+  {
+    "id": "p_monday",
+    "name": "monday.com",
+    "aliases": []
+  },
+  {
+    "id": "p_backlog",
+    "name": "Backlog",
+    "aliases": []
+  },
+  {
+    "id": "p_evernote",
+    "name": "Evernote",
+    "aliases": []
+  },
+  {
+    "id": "p_todoist",
+    "name": "Todoist",
+    "aliases": []
+  },
+  {
+    "id": "p_miro",
+    "name": "Miro",
+    "aliases": []
+  },
+  {
+    "id": "p_airtable",
+    "name": "Airtable",
+    "aliases": []
+  },
+  {
+    "id": "p_zapier",
+    "name": "Zapier",
+    "aliases": []
+  },
+  {
+    "id": "p_grammarly",
+    "name": "Grammarly",
+    "aliases": []
+  },
+  {
+    "id": "p_deepl",
+    "name": "DeepL Pro",
+    "aliases": []
+  },
+  {
+    "id": "p_wix",
+    "name": "Wix",
+    "aliases": []
+  },
+  {
+    "id": "p_squarespace",
+    "name": "Squarespace",
+    "aliases": []
+  },
+  {
+    "id": "p_wordpresscom",
+    "name": "WordPress.com",
+    "aliases": []
+  },
+  {
+    "id": "p_canva",
+    "name": "Canva Pro",
+    "aliases": []
+  },
+  {
+    "id": "p_figma",
+    "name": "Figma",
+    "aliases": []
+  },
+  {
+    "id": "p_adobecc",
+    "name": "Adobe Creative Cloud",
+    "aliases": []
+  },
+  {
+    "id": "p_photoshop",
+    "name": "Adobe Photoshop",
+    "aliases": []
+  },
+  {
+    "id": "p_lightroom",
+    "name": "Adobe Lightroom",
+    "aliases": []
+  },
+  {
+    "id": "p_clipstudio",
+    "name": "CLIP STUDIO PAINT",
+    "aliases": [
+      "クリップスタジオ"
+    ]
+  },
+  {
+    "id": "p_envato",
+    "name": "Envato Elements",
+    "aliases": []
+  },
+  {
+    "id": "p_filmora",
+    "name": "Filmora",
+    "aliases": []
+  },
+  {
+    "id": "p_vimeo",
+    "name": "Vimeo",
+    "aliases": []
+  },
+  {
+    "id": "p_adobestock",
+    "name": "Adobe Stock",
+    "aliases": []
+  },
+  {
+    "id": "p_veed",
+    "name": "VEED.io",
+    "aliases": []
+  },
+  {
+    "id": "p_googleone",
+    "name": "Google One",
+    "aliases": []
+  },
+  {
+    "id": "p_icloud",
+    "name": "iCloud+",
+    "aliases": [
+      "iCloud"
+    ]
+  },
+  {
+    "id": "p_dropbox",
+    "name": "Dropbox",
+    "aliases": []
+  },
+  {
+    "id": "p_onedrive",
+    "name": "OneDrive",
+    "aliases": []
+  },
+  {
+    "id": "p_box",
+    "name": "Box",
+    "aliases": []
+  },
+  {
+    "id": "p_mega",
+    "name": "MEGA",
+    "aliases": []
+  },
+  {
+    "id": "p_pcloud",
+    "name": "pCloud",
+    "aliases": []
+  },
+  {
+    "id": "p_synccom",
+    "name": "Sync.com",
+    "aliases": []
+  },
+  {
+    "id": "p_nikkei",
+    "name": "日経電子版",
+    "aliases": []
+  },
+  {
+    "id": "p_newspicks",
+    "name": "NewsPicks",
+    "aliases": []
+  },
+  {
+    "id": "p_yahoopre",
+    "name": "Yahoo!プレミアム",
+    "aliases": []
+  },
+  {
+    "id": "p_asahi",
+    "name": "朝日新聞デジタル",
+    "aliases": []
+  },
+  {
+    "id": "p_yomiuri",
+    "name": "読売新聞オンライン",
+    "aliases": []
+  },
+  {
+    "id": "p_mainichi",
+    "name": "毎日新聞デジタル",
+    "aliases": []
+  },
+  {
+    "id": "p_toyokeizai",
+    "name": "東洋経済オンライン",
+    "aliases": []
+  },
+  {
+    "id": "p_diamond",
+    "name": "ダイヤモンド・プレミアム",
+    "aliases": []
+  },
+  {
+    "id": "p_wsj",
+    "name": "The Wall Street Journal",
+    "aliases": []
+  },
+  {
+    "id": "p_nytimes",
+    "name": "The New York Times",
+    "aliases": []
+  },
+  {
+    "id": "p_bunshun",
+    "name": "文春オンライン",
+    "aliases": []
+  },
+  {
+    "id": "p_psplus",
+    "name": "PlayStation Plus",
+    "aliases": [
+      "PS Plus",
+      "プレイステーションプラス"
+    ]
+  },
+  {
+    "id": "p_nso",
+    "name": "Nintendo Switch Online",
+    "aliases": [
+      "スイッチオンライン"
+    ]
+  },
+  {
+    "id": "p_xboxgp",
+    "name": "Xbox Game Pass",
+    "aliases": []
+  },
+  {
+    "id": "p_arcade",
+    "name": "Apple Arcade",
+    "aliases": []
+  },
+  {
+    "id": "p_eaplay",
+    "name": "EA Play",
+    "aliases": []
+  },
+  {
+    "id": "p_ubisoftplus",
+    "name": "Ubisoft+",
+    "aliases": []
+  },
+  {
+    "id": "p_geforcenow",
+    "name": "GeForce NOW",
+    "aliases": []
+  },
+  {
+    "id": "p_amazonluna",
+    "name": "Amazon Luna",
+    "aliases": []
+  },
+  {
+    "id": "p_pcgamepass",
+    "name": "PC Game Pass",
+    "aliases": []
+  },
+  {
+    "id": "p_humblechoice",
+    "name": "Humble Choice",
+    "aliases": []
+  },
+  {
+    "id": "p_fitnessplus",
+    "name": "Apple Fitness+",
+    "aliases": []
+  },
+  {
+    "id": "p_peloton",
+    "name": "Peloton App",
+    "aliases": []
+  },
+  {
+    "id": "p_calm",
+    "name": "Calm",
+    "aliases": []
+  },
+  {
+    "id": "p_headspace",
+    "name": "Headspace",
+    "aliases": []
+  },
+  {
+    "id": "p_asken",
+    "name": "あすけんプレミアム",
+    "aliases": []
+  },
+  {
+    "id": "p_finc",
+    "name": "FiNCプレミアム",
+    "aliases": []
+  },
+  {
+    "id": "p_rizap",
+    "name": "RIZAP",
+    "aliases": [
+      "ライザップ"
+    ]
+  },
+  {
+    "id": "p_anytimefitness",
+    "name": "エニタイムフィットネス",
+    "aliases": []
+  },
+  {
+    "id": "p_duolingo",
+    "name": "Duolingo Super",
+    "aliases": []
+  },
+  {
+    "id": "p_studysapuri",
+    "name": "スタディサプリ",
+    "aliases": []
+  },
+  {
+    "id": "p_rosettastone",
+    "name": "Rosetta Stone",
+    "aliases": []
+  },
+  {
+    "id": "p_babbel",
+    "name": "Babbel",
+    "aliases": []
+  },
+  {
+    "id": "p_cambly",
+    "name": "Cambly",
+    "aliases": []
+  },
+  {
+    "id": "p_rarejob",
+    "name": "レアジョブ英会話",
+    "aliases": []
+  },
+  {
+    "id": "p_dmmeikaiwa",
+    "name": "DMM英会話",
+    "aliases": []
+  },
+  {
+    "id": "p_courseraplus",
+    "name": "Coursera Plus",
+    "aliases": []
+  },
+  {
+    "id": "p_linkedinlearning",
+    "name": "LinkedIn Learning",
+    "aliases": []
+  },
+  {
+    "id": "p_schoo",
+    "name": "Schoo",
+    "aliases": []
+  },
+  {
+    "id": "p_nativecamp",
+    "name": "ネイティブキャンプ",
+    "aliases": []
+  },
+  {
+    "id": "p_kindleul",
+    "name": "Kindle Unlimited",
+    "aliases": [
+      "Kindleアンリミテッド"
+    ]
+  },
+  {
+    "id": "p_dbook",
+    "name": "dブック",
+    "aliases": []
+  },
+  {
+    "id": "p_dmagazine",
+    "name": "dマガジン",
+    "aliases": []
+  },
+  {
+    "id": "p_rakutenmagazine",
+    "name": "楽天マガジン",
+    "aliases": []
+  },
+  {
+    "id": "p_bookhodai",
+    "name": "ブック放題",
+    "aliases": []
+  },
+  {
+    "id": "p_cmoa",
+    "name": "コミックシーモア読み放題",
+    "aliases": []
+  },
+  {
+    "id": "p_audible",
+    "name": "Audible",
+    "aliases": [
+      "オーディブル"
+    ]
+  },
+  {
+    "id": "p_koboplus",
+    "name": "Kobo Plus",
+    "aliases": []
+  },
+  {
+    "id": "p_moneyforward",
+    "name": "マネーフォワード ME プレミアム",
+    "aliases": []
+  },
+  {
+    "id": "p_zaim",
+    "name": "Zaimプレミアム",
+    "aliases": []
+  },
+  {
+    "id": "p_freee",
+    "name": "freee会計",
+    "aliases": []
+  },
+  {
+    "id": "p_yayoi",
+    "name": "弥生会計 オンライン",
+    "aliases": []
+  },
+  {
+    "id": "p_bloomberg",
+    "name": "Bloomberg",
+    "aliases": []
+  },
+  {
+    "id": "p_yahoofinance",
+    "name": "Yahoo!ファイナンス プレミアム",
+    "aliases": []
+  },
+  {
+    "id": "p_nordvpn",
+    "name": "NordVPN",
+    "aliases": []
+  },
+  {
+    "id": "p_expressvpn",
+    "name": "ExpressVPN",
+    "aliases": []
+  },
+  {
+    "id": "p_surfshark",
+    "name": "Surfshark",
+    "aliases": []
+  },
+  {
+    "id": "p_1password",
+    "name": "1Password",
+    "aliases": []
+  },
+  {
+    "id": "p_lastpass",
+    "name": "LastPass",
+    "aliases": []
+  },
+  {
+    "id": "p_bitwarden",
+    "name": "Bitwarden",
+    "aliases": []
+  },
+  {
+    "id": "p_norton360",
+    "name": "ノートン 360",
+    "aliases": [
+      "Norton 360"
+    ]
+  },
+  {
+    "id": "p_mcafee",
+    "name": "McAfee",
+    "aliases": []
+  },
+  {
+    "id": "p_eset",
+    "name": "ESET",
+    "aliases": []
+  },
+  {
+    "id": "p_virusbuster",
+    "name": "ウイルスバスター クラウド",
+    "aliases": []
+  },
+  {
+    "id": "p_malwarebytes",
+    "name": "Malwarebytes Premium",
+    "aliases": []
+  },
+  {
+    "id": "p_ahamo",
+    "name": "ahamo",
+    "aliases": [
+      "アハモ"
+    ]
+  },
+  {
+    "id": "p_linemo",
+    "name": "LINEMO",
+    "aliases": [
+      "ラインモ"
+    ]
+  },
+  {
+    "id": "p_uqmobile",
+    "name": "UQ mobile",
+    "aliases": [
+      "UQモバイル",
+      "ユーキューモバイル"
+    ]
+  },
+  {
+    "id": "p_ymobile",
+    "name": "Y!mobile",
+    "aliases": [
+      "ワイモバイル"
+    ]
+  },
+  {
+    "id": "p_rakutenmobile",
+    "name": "楽天モバイル",
+    "aliases": []
+  },
+  {
+    "id": "p_mineo",
+    "name": "mineo",
+    "aliases": [
+      "マイネオ"
+    ]
+  },
+  {
+    "id": "p_iijmio",
+    "name": "IIJmio",
+    "aliases": []
+  },
+  {
+    "id": "p_biglobemobile",
+    "name": "BIGLOBEモバイル",
+    "aliases": []
+  },
+  {
+    "id": "p_nuromobile",
+    "name": "NUROモバイル",
+    "aliases": [
+      "ヌロモバイル"
+    ]
+  },
+  {
+    "id": "p_broadwimax",
+    "name": "Broad WiMAX",
+    "aliases": [
+      "WiMAX"
+    ]
+  },
+  {
+    "id": "p_docomohikari",
+    "name": "ドコモ光",
+    "aliases": []
+  },
+  {
+    "id": "p_softbankhikari",
+    "name": "ソフトバンク光",
+    "aliases": []
+  },
+  {
+    "id": "p_nurohikari",
+    "name": "NURO光",
+    "aliases": []
+  },
+  {
+    "id": "p_kenminkyosai",
+    "name": "県民共済",
+    "aliases": []
+  },
+  {
+    "id": "p_coopkyosai",
+    "name": "コープ共済",
+    "aliases": []
+  },
+  {
+    "id": "p_mobilehoken",
+    "name": "モバイル保険",
+    "aliases": []
+  },
+  {
+    "id": "p_ausonpo_phone",
+    "name": "au損保 スマホ保険",
+    "aliases": []
+  },
+  {
+    "id": "p_justincase",
+    "name": "justInCase スマホ保険",
+    "aliases": []
+  },
+  {
+    "id": "p_anicom",
+    "name": "アニコム損保 どうぶつ健保",
+    "aliases": [
+      "アニコム"
+    ]
+  },
+  {
+    "id": "p_ipet",
+    "name": "アイペット損保",
+    "aliases": [
+      "アイペット"
+    ]
+  },
+  {
+    "id": "p_rakutensonpo_pet",
+    "name": "楽天損保 ペット保険",
+    "aliases": []
+  },
+  {
+    "id": "p_costco",
+    "name": "コストコ会員",
+    "aliases": [
+      "Costco"
+    ]
+  },
+  {
+    "id": "p_uberone",
+    "name": "Uber One",
+    "aliases": []
+  },
+  {
+    "id": "p_woltplus",
+    "name": "Wolt+",
+    "aliases": []
+  },
+  {
+    "id": "p_aircloset",
+    "name": "airCloset",
+    "aliases": [
+      "エアークローゼット"
+    ]
+  },
+  {
+    "id": "p_mechakari",
+    "name": "mechakari",
+    "aliases": [
+      "メチャカリ"
+    ]
+  },
+  {
+    "id": "p_bulkhomme",
+    "name": "BULK HOMME",
+    "aliases": []
+  },
+  {
+    "id": "p_oisix",
+    "name": "Oisix",
+    "aliases": [
+      "オイシックス"
+    ]
+  },
+  {
+    "id": "p_radishboya",
+    "name": "らでぃっしゅぼーや",
+    "aliases": []
+  },
+  {
+    "id": "p_cokeonpass",
+    "name": "Coke ON Pass",
+    "aliases": [
+      "コークオンパス"
+    ]
+  },
+  {
+    "id": "p_greenspoon",
+    "name": "green spoon",
+    "aliases": []
+  },
+  {
+    "id": "p_clas",
+    "name": "CLAS",
+    "aliases": [
+      "クラス"
+    ]
+  },
+  {
+    "id": "p_subsclife",
+    "name": "SUBSCLIFE",
+    "aliases": [
+      "サブスクライフ"
+    ]
+  },
+  {
+    "id": "p_casy",
+    "name": "CaSy",
+    "aliases": []
+  },
+  {
+    "id": "p_kodomochallenge",
+    "name": "こどもちゃれんじ",
+    "aliases": []
+  },
+  {
+    "id": "p_risu",
+    "name": "RISU算数",
+    "aliases": []
+  },
+  {
+    "id": "p_zkai",
+    "name": "Z会",
+    "aliases": []
+  },
+  {
+    "id": "p_smilezemi",
+    "name": "スマイルゼミ",
+    "aliases": []
+  },
+  {
+    "id": "p_mogwan",
+    "name": "モグワン 定期コース",
+    "aliases": []
+  },
+  {
+    "id": "p_petokoto",
+    "name": "PETOKOTO FOODS",
+    "aliases": []
+  },
+  {
+    "id": "p_furbonanny",
+    "name": "Furbo Dog Nanny",
+    "aliases": []
+  },
+  {
+    "id": "p_kinto",
+    "name": "KINTO",
+    "aliases": []
+  },
+  {
+    "id": "p_timescarshare",
+    "name": "タイムズカーシェア プライム会員",
+    "aliases": []
+  },
+  {
+    "id": "p_docomobikeshare",
+    "name": "ドコモ・バイクシェア 月額会員",
+    "aliases": []
+  },
+  {
+    "id": "p_midjourney",
+    "name": "Midjourney",
+    "aliases": []
+  },
+  {
+    "id": "p_githubcopilot",
+    "name": "GitHub Copilot",
+    "aliases": []
+  },
+  {
+    "id": "p_suno",
+    "name": "Suno",
+    "aliases": []
+  },
+  {
+    "id": "p_elevenlabs",
+    "name": "ElevenLabs",
+    "aliases": []
+  },
+  {
+    "id": "p_notionai",
+    "name": "Notion AI",
+    "aliases": []
+  },
+  {
+    "id": "p_runway",
+    "name": "Runway",
+    "aliases": []
+  },
+  {
+    "id": "p_xpremium",
+    "name": "X Premium",
+    "aliases": [
+      "Twitter Blue"
+    ]
+  },
+  {
+    "id": "p_discordnitro",
+    "name": "Discord Nitro",
+    "aliases": []
+  },
+  {
+    "id": "p_pairs",
+    "name": "Pairs",
+    "aliases": [
+      "ペアーズ"
+    ]
+  },
+  {
+    "id": "p_tindergold",
+    "name": "Tinder Gold",
+    "aliases": []
+  },
+  {
+    "id": "p_snapchatplus",
+    "name": "Snapchat+",
+    "aliases": []
+  }
+]

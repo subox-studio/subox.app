@@ -1,0 +1,1381 @@
+[
+  {
+    "id": "p_netflix",
+    "name": "Netflix",
+    "domain": "netflix.com",
+    "price": 1490,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_amzprime",
+    "name": "Amazon Prime",
+    "domain": "amazon.co.jp",
+    "price": 600,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_disney",
+    "name": "Disney+",
+    "domain": "disneyplus.com",
+    "price": 990,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_hulu",
+    "name": "Hulu",
+    "domain": "hulu.jp",
+    "price": 1026,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_appletv",
+    "name": "Apple TV+",
+    "domain": "tv.apple.com",
+    "price": 900,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_ytpremium",
+    "name": "YouTube Premium",
+    "domain": "youtube.com",
+    "price": 1280,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_unext",
+    "name": "U-NEXT",
+    "domain": "unext.jp",
+    "price": 2189,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_abema",
+    "name": "ABEMA",
+    "domain": "abema.tv",
+    "price": 960,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_dtv",
+    "name": "dTV",
+    "domain": "video.dmkt-sp.jp",
+    "price": 550,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_lemino",
+    "name": "Lemino",
+    "domain": "lemino.docomo.ne.jp",
+    "price": 990,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_tver",
+    "name": "TVer Premium",
+    "domain": "tver.jp",
+    "price": 618,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_danime",
+    "name": "dアニメストア",
+    "domain": "anime.dmkt-sp.jp",
+    "price": 440,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_nico",
+    "name": "ニコニコプレミアム",
+    "domain": "nicovideo.jp",
+    "price": 550,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_fod",
+    "name": "FODプレミアム",
+    "domain": "fod.fujitv.co.jp",
+    "price": 976,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_dazn",
+    "name": "DAZN",
+    "domain": "dazn.com",
+    "price": 4200,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_wowow",
+    "name": "WOWOW",
+    "domain": "wowow.co.jp",
+    "price": 2530,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_crunchyroll",
+    "name": "Crunchyroll",
+    "domain": "crunchyroll.com",
+    "price": 1000,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_hikari_tv",
+    "name": "ひかりTV",
+    "domain": "hikaritv.net",
+    "price": 1650,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_paravi_rakuten",
+    "name": "Rakuten TV",
+    "domain": "tv.rakuten.co.jp",
+    "price": 1980,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_star_channel",
+    "name": "スターチャンネル",
+    "domain": "star-ch.jp",
+    "price": 1980,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_skyperfectv",
+    "name": "スカパー!",
+    "domain": "sptv.jp",
+    "price": 2600,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_jsports",
+    "name": "J SPORTS",
+    "domain": "jsports.co.jp",
+    "price": 4863,
+    "category": "エンタメ・動画配信"
+  },
+  {
+    "id": "p_spotify",
+    "name": "Spotify",
+    "domain": "spotify.com",
+    "price": 980,
+    "category": "音楽・ポッドキャスト"
+  },
+  {
+    "id": "p_applemusic",
+    "name": "Apple Music",
+    "domain": "music.apple.com",
+    "price": 1080,
+    "category": "音楽・ポッドキャスト"
+  },
+  {
+    "id": "p_ytmusic",
+    "name": "YouTube Music",
+    "domain": "music.youtube.com",
+    "price": 980,
+    "category": "音楽・ポッドキャスト"
+  },
+  {
+    "id": "p_amzmusic",
+    "name": "Amazon Music Unlimited",
+    "domain": "music.amazon.co.jp",
+    "price": 980,
+    "category": "音楽・ポッドキャスト"
+  },
+  {
+    "id": "p_linemusic",
+    "name": "LINE MUSIC",
+    "domain": "music.line.me",
+    "price": 980,
+    "category": "音楽・ポッドキャスト"
+  },
+  {
+    "id": "p_awa",
+    "name": "AWA",
+    "domain": "awa.fm",
+    "price": 980,
+    "category": "音楽・ポッドキャスト"
+  },
+  {
+    "id": "p_radiko",
+    "name": "radikoプレミアム",
+    "domain": "radiko.jp",
+    "price": 385,
+    "category": "音楽・ポッドキャスト"
+  },
+  {
+    "id": "p_deezer",
+    "name": "Deezer",
+    "domain": "deezer.com",
+    "price": 1080,
+    "category": "音楽・ポッドキャスト"
+  },
+  {
+    "id": "p_soundcloudgo",
+    "name": "SoundCloud Go+",
+    "domain": "soundcloud.com",
+    "price": 1280,
+    "category": "音楽・ポッドキャスト"
+  },
+  {
+    "id": "p_tidal",
+    "name": "Tidal",
+    "domain": "tidal.com",
+    "price": 1084,
+    "category": "音楽・ポッドキャスト"
+  },
+  {
+    "id": "p_notion",
+    "name": "Notion",
+    "domain": "notion.so",
+    "price": 1200,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_slack",
+    "name": "Slack",
+    "domain": "slack.com",
+    "price": 850,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_zoom",
+    "name": "Zoom",
+    "domain": "zoom.us",
+    "price": 2000,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_github",
+    "name": "GitHub Pro",
+    "domain": "github.com",
+    "price": 400,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_gitlab",
+    "name": "GitLab",
+    "domain": "gitlab.com",
+    "price": 2900,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_chatgpt",
+    "name": "ChatGPT Plus",
+    "domain": "openai.com",
+    "price": 3000,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_claude",
+    "name": "Claude Pro",
+    "domain": "claude.ai",
+    "price": 3000,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_gemini",
+    "name": "Google Gemini Advanced",
+    "domain": "gemini.google.com",
+    "price": 2900,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_copilotpro",
+    "name": "Microsoft Copilot Pro",
+    "domain": "copilot.microsoft.com",
+    "price": 3200,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_perplexity",
+    "name": "Perplexity Pro",
+    "domain": "perplexity.ai",
+    "price": 3000,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_ms365",
+    "name": "Microsoft 365",
+    "domain": "microsoft.com",
+    "price": 1490,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_gws",
+    "name": "Google Workspace",
+    "domain": "workspace.google.com",
+    "price": 1360,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_trello",
+    "name": "Trello",
+    "domain": "trello.com",
+    "price": 500,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_asana",
+    "name": "Asana",
+    "domain": "asana.com",
+    "price": 1310,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_monday",
+    "name": "monday.com",
+    "domain": "monday.com",
+    "price": 1200,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_backlog",
+    "name": "Backlog",
+    "domain": "backlog.com",
+    "price": 970,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_evernote",
+    "name": "Evernote",
+    "domain": "evernote.com",
+    "price": 1090,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_todoist",
+    "name": "Todoist",
+    "domain": "todoist.com",
+    "price": 500,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_miro",
+    "name": "Miro",
+    "domain": "miro.com",
+    "price": 1000,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_airtable",
+    "name": "Airtable",
+    "domain": "airtable.com",
+    "price": 1500,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_zapier",
+    "name": "Zapier",
+    "domain": "zapier.com",
+    "price": 3000,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_grammarly",
+    "name": "Grammarly",
+    "domain": "grammarly.com",
+    "price": 1500,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_deepl",
+    "name": "DeepL Pro",
+    "domain": "deepl.com",
+    "price": 1500,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_wix",
+    "name": "Wix",
+    "domain": "wix.com",
+    "price": 1500,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_squarespace",
+    "name": "Squarespace",
+    "domain": "squarespace.com",
+    "price": 2900,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_wordpresscom",
+    "name": "WordPress.com",
+    "domain": "wordpress.com",
+    "price": 500,
+    "category": "仕事・開発ツール"
+  },
+  {
+    "id": "p_canva",
+    "name": "Canva Pro",
+    "domain": "canva.com",
+    "price": 1200,
+    "category": "デザイン・クリエイティブ"
+  },
+  {
+    "id": "p_figma",
+    "name": "Figma",
+    "domain": "figma.com",
+    "price": 1800,
+    "category": "デザイン・クリエイティブ"
+  },
+  {
+    "id": "p_adobecc",
+    "name": "Adobe Creative Cloud",
+    "domain": "adobe.com",
+    "price": 6480,
+    "category": "デザイン・クリエイティブ"
+  },
+  {
+    "id": "p_photoshop",
+    "name": "Adobe Photoshop",
+    "domain": "adobe.com",
+    "price": 2728,
+    "category": "デザイン・クリエイティブ"
+  },
+  {
+    "id": "p_lightroom",
+    "name": "Adobe Lightroom",
+    "domain": "adobe.com",
+    "price": 1078,
+    "category": "デザイン・クリエイティブ"
+  },
+  {
+    "id": "p_clipstudio",
+    "name": "CLIP STUDIO PAINT",
+    "domain": "clipstudio.net",
+    "price": 480,
+    "category": "デザイン・クリエイティブ"
+  },
+  {
+    "id": "p_envato",
+    "name": "Envato Elements",
+    "domain": "elements.envato.com",
+    "price": 2900,
+    "category": "デザイン・クリエイティブ"
+  },
+  {
+    "id": "p_filmora",
+    "name": "Filmora",
+    "domain": "filmora.wondershare.com",
+    "price": 1000,
+    "category": "デザイン・クリエイティブ"
+  },
+  {
+    "id": "p_vimeo",
+    "name": "Vimeo",
+    "domain": "vimeo.com",
+    "price": 900,
+    "category": "デザイン・クリエイティブ"
+  },
+  {
+    "id": "p_adobestock",
+    "name": "Adobe Stock",
+    "domain": "stock.adobe.com",
+    "price": 3828,
+    "category": "デザイン・クリエイティブ"
+  },
+  {
+    "id": "p_veed",
+    "name": "VEED.io",
+    "domain": "veed.io",
+    "price": 2700,
+    "category": "デザイン・クリエイティブ"
+  },
+  {
+    "id": "p_googleone",
+    "name": "Google One",
+    "domain": "one.google.com",
+    "price": 250,
+    "category": "クラウドストレージ"
+  },
+  {
+    "id": "p_icloud",
+    "name": "iCloud+",
+    "domain": "icloud.com",
+    "price": 130,
+    "category": "クラウドストレージ"
+  },
+  {
+    "id": "p_dropbox",
+    "name": "Dropbox",
+    "domain": "dropbox.com",
+    "price": 1500,
+    "category": "クラウドストレージ"
+  },
+  {
+    "id": "p_onedrive",
+    "name": "OneDrive",
+    "domain": "onedrive.live.com",
+    "price": 224,
+    "category": "クラウドストレージ"
+  },
+  {
+    "id": "p_box",
+    "name": "Box",
+    "domain": "box.com",
+    "price": 1440,
+    "category": "クラウドストレージ"
+  },
+  {
+    "id": "p_mega",
+    "name": "MEGA",
+    "domain": "mega.io",
+    "price": 750,
+    "category": "クラウドストレージ"
+  },
+  {
+    "id": "p_pcloud",
+    "name": "pCloud",
+    "domain": "pcloud.com",
+    "price": 500,
+    "category": "クラウドストレージ"
+  },
+  {
+    "id": "p_synccom",
+    "name": "Sync.com",
+    "domain": "sync.com",
+    "price": 1200,
+    "category": "クラウドストレージ"
+  },
+  {
+    "id": "p_nikkei",
+    "name": "日経電子版",
+    "domain": "nikkei.com",
+    "price": 4277,
+    "category": "ニュース・情報"
+  },
+  {
+    "id": "p_newspicks",
+    "name": "NewsPicks",
+    "domain": "newspicks.com",
+    "price": 1664,
+    "category": "ニュース・情報"
+  },
+  {
+    "id": "p_yahoopre",
+    "name": "Yahoo!プレミアム",
+    "domain": "yahoo.co.jp",
+    "price": 508,
+    "category": "ニュース・情報"
+  },
+  {
+    "id": "p_asahi",
+    "name": "朝日新聞デジタル",
+    "domain": "asahi.com",
+    "price": 3800,
+    "category": "ニュース・情報"
+  },
+  {
+    "id": "p_yomiuri",
+    "name": "読売新聞オンライン",
+    "domain": "yomiuri.co.jp",
+    "price": 4000,
+    "category": "ニュース・情報"
+  },
+  {
+    "id": "p_mainichi",
+    "name": "毎日新聞デジタル",
+    "domain": "mainichi.jp",
+    "price": 3000,
+    "category": "ニュース・情報"
+  },
+  {
+    "id": "p_toyokeizai",
+    "name": "東洋経済オンライン",
+    "domain": "toyokeizai.net",
+    "price": 1500,
+    "category": "ニュース・情報"
+  },
+  {
+    "id": "p_diamond",
+    "name": "ダイヤモンド・プレミアム",
+    "domain": "diamond.jp",
+    "price": 1650,
+    "category": "ニュース・情報"
+  },
+  {
+    "id": "p_wsj",
+    "name": "The Wall Street Journal",
+    "domain": "wsj.com",
+    "price": 4000,
+    "category": "ニュース・情報"
+  },
+  {
+    "id": "p_nytimes",
+    "name": "The New York Times",
+    "domain": "nytimes.com",
+    "price": 2000,
+    "category": "ニュース・情報"
+  },
+  {
+    "id": "p_bunshun",
+    "name": "文春オンライン",
+    "domain": "bunshun.jp",
+    "price": 700,
+    "category": "ニュース・情報"
+  },
+  {
+    "id": "p_psplus",
+    "name": "PlayStation Plus",
+    "domain": "playstation.com",
+    "price": 850,
+    "category": "ゲーム"
+  },
+  {
+    "id": "p_nso",
+    "name": "Nintendo Switch Online",
+    "domain": "nintendo.co.jp",
+    "price": 306,
+    "category": "ゲーム"
+  },
+  {
+    "id": "p_xboxgp",
+    "name": "Xbox Game Pass",
+    "domain": "xbox.com",
+    "price": 850,
+    "category": "ゲーム"
+  },
+  {
+    "id": "p_arcade",
+    "name": "Apple Arcade",
+    "domain": "apple.com",
+    "price": 900,
+    "category": "ゲーム"
+  },
+  {
+    "id": "p_eaplay",
+    "name": "EA Play",
+    "domain": "ea.com",
+    "price": 850,
+    "category": "ゲーム"
+  },
+  {
+    "id": "p_ubisoftplus",
+    "name": "Ubisoft+",
+    "domain": "ubisoft.com",
+    "price": 1650,
+    "category": "ゲーム"
+  },
+  {
+    "id": "p_geforcenow",
+    "name": "GeForce NOW",
+    "domain": "nvidia.com",
+    "price": 1310,
+    "category": "ゲーム"
+  },
+  {
+    "id": "p_amazonluna",
+    "name": "Amazon Luna",
+    "domain": "amazon.co.jp",
+    "price": 1000,
+    "category": "ゲーム"
+  },
+  {
+    "id": "p_pcgamepass",
+    "name": "PC Game Pass",
+    "domain": "xbox.com",
+    "price": 850,
+    "category": "ゲーム"
+  },
+  {
+    "id": "p_humblechoice",
+    "name": "Humble Choice",
+    "domain": "humblebundle.com",
+    "price": 1500,
+    "category": "ゲーム"
+  },
+  {
+    "id": "p_fitnessplus",
+    "name": "Apple Fitness+",
+    "domain": "apple.com",
+    "price": 800,
+    "category": "フィットネス・健康"
+  },
+  {
+    "id": "p_peloton",
+    "name": "Peloton App",
+    "domain": "onepeloton.com",
+    "price": 1490,
+    "category": "フィットネス・健康"
+  },
+  {
+    "id": "p_calm",
+    "name": "Calm",
+    "domain": "calm.com",
+    "price": 900,
+    "category": "フィットネス・健康"
+  },
+  {
+    "id": "p_headspace",
+    "name": "Headspace",
+    "domain": "headspace.com",
+    "price": 900,
+    "category": "フィットネス・健康"
+  },
+  {
+    "id": "p_asken",
+    "name": "あすけんプレミアム",
+    "domain": "asken.jp",
+    "price": 480,
+    "category": "フィットネス・健康"
+  },
+  {
+    "id": "p_finc",
+    "name": "FiNCプレミアム",
+    "domain": "finc.com",
+    "price": 480,
+    "category": "フィットネス・健康"
+  },
+  {
+    "id": "p_rizap",
+    "name": "RIZAP",
+    "domain": "rizap.jp",
+    "price": 50000,
+    "category": "フィットネス・健康"
+  },
+  {
+    "id": "p_anytimefitness",
+    "name": "エニタイムフィットネス",
+    "domain": "anytimefitness.co.jp",
+    "price": 7700,
+    "category": "フィットネス・健康"
+  },
+  {
+    "id": "p_duolingo",
+    "name": "Duolingo Super",
+    "domain": "duolingo.com",
+    "price": 1300,
+    "category": "語学・学習"
+  },
+  {
+    "id": "p_studysapuri",
+    "name": "スタディサプリ",
+    "domain": "studysapuri.jp",
+    "price": 1815,
+    "category": "語学・学習"
+  },
+  {
+    "id": "p_rosettastone",
+    "name": "Rosetta Stone",
+    "domain": "rosettastone.com",
+    "price": 1400,
+    "category": "語学・学習"
+  },
+  {
+    "id": "p_babbel",
+    "name": "Babbel",
+    "domain": "babbel.com",
+    "price": 1400,
+    "category": "語学・学習"
+  },
+  {
+    "id": "p_cambly",
+    "name": "Cambly",
+    "domain": "cambly.com",
+    "price": 3000,
+    "category": "語学・学習"
+  },
+  {
+    "id": "p_rarejob",
+    "name": "レアジョブ英会話",
+    "domain": "rarejob.com",
+    "price": 7980,
+    "category": "語学・学習"
+  },
+  {
+    "id": "p_dmmeikaiwa",
+    "name": "DMM英会話",
+    "domain": "dmm.com",
+    "price": 6980,
+    "category": "語学・学習"
+  },
+  {
+    "id": "p_courseraplus",
+    "name": "Coursera Plus",
+    "domain": "coursera.org",
+    "price": 6000,
+    "category": "語学・学習"
+  },
+  {
+    "id": "p_linkedinlearning",
+    "name": "LinkedIn Learning",
+    "domain": "linkedin.com",
+    "price": 2700,
+    "category": "語学・学習"
+  },
+  {
+    "id": "p_schoo",
+    "name": "Schoo",
+    "domain": "schoo.jp",
+    "price": 980,
+    "category": "語学・学習"
+  },
+  {
+    "id": "p_nativecamp",
+    "name": "ネイティブキャンプ",
+    "domain": "nativecamp.net",
+    "price": 6480,
+    "category": "語学・学習"
+  },
+  {
+    "id": "p_kindleul",
+    "name": "Kindle Unlimited",
+    "domain": "amazon.co.jp",
+    "price": 980,
+    "category": "電子書籍"
+  },
+  {
+    "id": "p_dbook",
+    "name": "dブック",
+    "domain": "book.dmkt-sp.jp",
+    "price": 550,
+    "category": "電子書籍"
+  },
+  {
+    "id": "p_dmagazine",
+    "name": "dマガジン",
+    "domain": "magazine.dmkt-sp.jp",
+    "price": 440,
+    "category": "電子書籍"
+  },
+  {
+    "id": "p_rakutenmagazine",
+    "name": "楽天マガジン",
+    "domain": "magazine.rakuten.co.jp",
+    "price": 418,
+    "category": "電子書籍"
+  },
+  {
+    "id": "p_bookhodai",
+    "name": "ブック放題",
+    "domain": "bookhodai.jp",
+    "price": 500,
+    "category": "電子書籍"
+  },
+  {
+    "id": "p_cmoa",
+    "name": "コミックシーモア読み放題",
+    "domain": "cmoa.jp",
+    "price": 780,
+    "category": "電子書籍"
+  },
+  {
+    "id": "p_audible",
+    "name": "Audible",
+    "domain": "audible.co.jp",
+    "price": 1500,
+    "category": "電子書籍"
+  },
+  {
+    "id": "p_koboplus",
+    "name": "Kobo Plus",
+    "domain": "kobo.com",
+    "price": 550,
+    "category": "電子書籍"
+  },
+  {
+    "id": "p_moneyforward",
+    "name": "マネーフォワード ME プレミアム",
+    "domain": "moneyforward.com",
+    "price": 500,
+    "category": "ファイナンス・投資"
+  },
+  {
+    "id": "p_zaim",
+    "name": "Zaimプレミアム",
+    "domain": "zaim.net",
+    "price": 480,
+    "category": "ファイナンス・投資"
+  },
+  {
+    "id": "p_freee",
+    "name": "freee会計",
+    "domain": "freee.co.jp",
+    "price": 2680,
+    "category": "ファイナンス・投資"
+  },
+  {
+    "id": "p_yayoi",
+    "name": "弥生会計 オンライン",
+    "domain": "yayoi-kk.co.jp",
+    "price": 2864,
+    "category": "ファイナンス・投資"
+  },
+  {
+    "id": "p_bloomberg",
+    "name": "Bloomberg",
+    "domain": "bloomberg.co.jp",
+    "price": 4000,
+    "category": "ファイナンス・投資"
+  },
+  {
+    "id": "p_yahoofinance",
+    "name": "Yahoo!ファイナンス プレミアム",
+    "domain": "finance.yahoo.co.jp",
+    "price": 330,
+    "category": "ファイナンス・投資"
+  },
+  {
+    "id": "p_nordvpn",
+    "name": "NordVPN",
+    "domain": "nordvpn.com",
+    "price": 500,
+    "category": "セキュリティ・VPN"
+  },
+  {
+    "id": "p_expressvpn",
+    "name": "ExpressVPN",
+    "domain": "expressvpn.com",
+    "price": 1000,
+    "category": "セキュリティ・VPN"
+  },
+  {
+    "id": "p_surfshark",
+    "name": "Surfshark",
+    "domain": "surfshark.com",
+    "price": 400,
+    "category": "セキュリティ・VPN"
+  },
+  {
+    "id": "p_1password",
+    "name": "1Password",
+    "domain": "1password.com",
+    "price": 500,
+    "category": "セキュリティ・VPN"
+  },
+  {
+    "id": "p_lastpass",
+    "name": "LastPass",
+    "domain": "lastpass.com",
+    "price": 400,
+    "category": "セキュリティ・VPN"
+  },
+  {
+    "id": "p_bitwarden",
+    "name": "Bitwarden",
+    "domain": "bitwarden.com",
+    "price": 130,
+    "category": "セキュリティ・VPN"
+  },
+  {
+    "id": "p_norton360",
+    "name": "ノートン 360",
+    "domain": "norton.com",
+    "price": 900,
+    "category": "セキュリティ・VPN"
+  },
+  {
+    "id": "p_mcafee",
+    "name": "McAfee",
+    "domain": "mcafee.com",
+    "price": 800,
+    "category": "セキュリティ・VPN"
+  },
+  {
+    "id": "p_eset",
+    "name": "ESET",
+    "domain": "eset.com",
+    "price": 600,
+    "category": "セキュリティ・VPN"
+  },
+  {
+    "id": "p_virusbuster",
+    "name": "ウイルスバスター クラウド",
+    "domain": "trendmicro.com",
+    "price": 600,
+    "category": "セキュリティ・VPN"
+  },
+  {
+    "id": "p_malwarebytes",
+    "name": "Malwarebytes Premium",
+    "domain": "malwarebytes.com",
+    "price": 500,
+    "category": "セキュリティ・VPN"
+  },
+  {
+    "id": "p_ahamo",
+    "name": "ahamo",
+    "domain": "ahamo.com",
+    "price": 2970,
+    "category": "通信・モバイル"
+  },
+  {
+    "id": "p_linemo",
+    "name": "LINEMO",
+    "domain": "linemo.jp",
+    "price": 2970,
+    "category": "通信・モバイル"
+  },
+  {
+    "id": "p_uqmobile",
+    "name": "UQ mobile",
+    "domain": "uqmobile.jp",
+    "price": 2090,
+    "category": "通信・モバイル"
+  },
+  {
+    "id": "p_ymobile",
+    "name": "Y!mobile",
+    "domain": "ymobile.jp",
+    "price": 3278,
+    "category": "通信・モバイル"
+  },
+  {
+    "id": "p_rakutenmobile",
+    "name": "楽天モバイル",
+    "domain": "mobile.rakuten.co.jp",
+    "price": 2178,
+    "category": "通信・モバイル"
+  },
+  {
+    "id": "p_mineo",
+    "name": "mineo",
+    "domain": "mineo.jp",
+    "price": 1518,
+    "category": "通信・モバイル"
+  },
+  {
+    "id": "p_iijmio",
+    "name": "IIJmio",
+    "domain": "iijmio.jp",
+    "price": 990,
+    "category": "通信・モバイル"
+  },
+  {
+    "id": "p_biglobemobile",
+    "name": "BIGLOBEモバイル",
+    "domain": "biglobe.ne.jp",
+    "price": 1320,
+    "category": "通信・モバイル"
+  },
+  {
+    "id": "p_nuromobile",
+    "name": "NUROモバイル",
+    "domain": "nuro.jp",
+    "price": 792,
+    "category": "通信・モバイル"
+  },
+  {
+    "id": "p_broadwimax",
+    "name": "Broad WiMAX",
+    "domain": "broadwimax.jp",
+    "price": 3894,
+    "category": "通信・モバイル"
+  },
+  {
+    "id": "p_docomohikari",
+    "name": "ドコモ光",
+    "domain": "nttdocomo.co.jp",
+    "price": 5720,
+    "category": "通信・モバイル"
+  },
+  {
+    "id": "p_softbankhikari",
+    "name": "ソフトバンク光",
+    "domain": "softbank.jp",
+    "price": 5720,
+    "category": "通信・モバイル"
+  },
+  {
+    "id": "p_nurohikari",
+    "name": "NURO光",
+    "domain": "nuro.jp",
+    "price": 5200,
+    "category": "通信・モバイル"
+  },
+  {
+    "id": "p_kenminkyosai",
+    "name": "県民共済",
+    "domain": "kyosai-cf.or.jp",
+    "price": 2000,
+    "category": "保険"
+  },
+  {
+    "id": "p_coopkyosai",
+    "name": "コープ共済",
+    "domain": "coopkyosai.coop",
+    "price": 1000,
+    "category": "保険"
+  },
+  {
+    "id": "p_mobilehoken",
+    "name": "モバイル保険",
+    "domain": "mobile-hoken.com",
+    "price": 700,
+    "category": "保険"
+  },
+  {
+    "id": "p_ausonpo_phone",
+    "name": "au損保 スマホ保険",
+    "domain": "au-sonpo.co.jp",
+    "price": 500,
+    "category": "保険"
+  },
+  {
+    "id": "p_justincase",
+    "name": "justInCase スマホ保険",
+    "domain": "justincase.jp",
+    "price": 500,
+    "category": "保険"
+  },
+  {
+    "id": "p_anicom",
+    "name": "アニコム損保 どうぶつ健保",
+    "domain": "anicom-sompo.co.jp",
+    "price": 2160,
+    "category": "保険"
+  },
+  {
+    "id": "p_ipet",
+    "name": "アイペット損保",
+    "domain": "ipet-ins.com",
+    "price": 2000,
+    "category": "保険"
+  },
+  {
+    "id": "p_rakutensonpo_pet",
+    "name": "楽天損保 ペット保険",
+    "domain": "rakuten-sonpo.co.jp",
+    "price": 1980,
+    "category": "保険"
+  },
+  {
+    "id": "p_costco",
+    "name": "コストコ会員",
+    "domain": "costco.co.jp",
+    "price": 0,
+    "category": "ショッピング・宅配"
+  },
+  {
+    "id": "p_uberone",
+    "name": "Uber One",
+    "domain": "uber.com",
+    "price": 498,
+    "category": "ショッピング・宅配"
+  },
+  {
+    "id": "p_woltplus",
+    "name": "Wolt+",
+    "domain": "wolt.com",
+    "price": 299,
+    "category": "ショッピング・宅配"
+  },
+  {
+    "id": "p_aircloset",
+    "name": "airCloset",
+    "domain": "air-closet.com",
+    "price": 7800,
+    "category": "美容・ファッション"
+  },
+  {
+    "id": "p_mechakari",
+    "name": "mechakari",
+    "domain": "mechakari.com",
+    "price": 5800,
+    "category": "美容・ファッション"
+  },
+  {
+    "id": "p_bulkhomme",
+    "name": "BULK HOMME",
+    "domain": "bulk.co.jp",
+    "price": 3980,
+    "category": "美容・ファッション"
+  },
+  {
+    "id": "p_oisix",
+    "name": "Oisix",
+    "domain": "oisix.com",
+    "price": 4980,
+    "category": "食品・飲料"
+  },
+  {
+    "id": "p_radishboya",
+    "name": "らでぃっしゅぼーや",
+    "domain": "radishbo-ya.co.jp",
+    "price": 4500,
+    "category": "食品・飲料"
+  },
+  {
+    "id": "p_cokeonpass",
+    "name": "Coke ON Pass",
+    "domain": "coke.co.jp",
+    "price": 1480,
+    "category": "食品・飲料"
+  },
+  {
+    "id": "p_greenspoon",
+    "name": "green spoon",
+    "domain": "greenspoon.co.jp",
+    "price": 7920,
+    "category": "食品・飲料"
+  },
+  {
+    "id": "p_clas",
+    "name": "CLAS",
+    "domain": "clas.style",
+    "price": 3960,
+    "category": "住まい・生活"
+  },
+  {
+    "id": "p_subsclife",
+    "name": "SUBSCLIFE",
+    "domain": "subsclife.com",
+    "price": 2980,
+    "category": "住まい・生活"
+  },
+  {
+    "id": "p_casy",
+    "name": "CaSy",
+    "domain": "casy.co.jp",
+    "price": 9900,
+    "category": "住まい・生活"
+  },
+  {
+    "id": "p_kodomochallenge",
+    "name": "こどもちゃれんじ",
+    "domain": "shimajiro.benesse.ne.jp",
+    "price": 2379,
+    "category": "子育て・教育"
+  },
+  {
+    "id": "p_risu",
+    "name": "RISU算数",
+    "domain": "suken.jp",
+    "price": 2980,
+    "category": "子育て・教育"
+  },
+  {
+    "id": "p_zkai",
+    "name": "Z会",
+    "domain": "zkai.co.jp",
+    "price": 3000,
+    "category": "子育て・教育"
+  },
+  {
+    "id": "p_smilezemi",
+    "name": "スマイルゼミ",
+    "domain": "smile-zemi.jp",
+    "price": 3278,
+    "category": "子育て・教育"
+  },
+  {
+    "id": "p_mogwan",
+    "name": "モグワン 定期コース",
+    "domain": "mogwan-dog.com",
+    "price": 3960,
+    "category": "ペット"
+  },
+  {
+    "id": "p_petokoto",
+    "name": "PETOKOTO FOODS",
+    "domain": "petokoto.com",
+    "price": 5378,
+    "category": "ペット"
+  },
+  {
+    "id": "p_furbonanny",
+    "name": "Furbo Dog Nanny",
+    "domain": "furbo.com",
+    "price": 980,
+    "category": "ペット"
+  },
+  {
+    "id": "p_kinto",
+    "name": "KINTO",
+    "domain": "kinto-jp.com",
+    "price": 33000,
+    "category": "交通・移動"
+  },
+  {
+    "id": "p_timescarshare",
+    "name": "タイムズカーシェア プライム会員",
+    "domain": "share.timescar.jp",
+    "price": 1030,
+    "category": "交通・移動"
+  },
+  {
+    "id": "p_docomobikeshare",
+    "name": "ドコモ・バイクシェア 月額会員",
+    "domain": "docomo-cycle.jp",
+    "price": 2000,
+    "category": "交通・移動"
+  },
+  {
+    "id": "p_midjourney",
+    "name": "Midjourney",
+    "domain": "midjourney.com",
+    "price": 1500,
+    "category": "AI・生産性ツール"
+  },
+  {
+    "id": "p_githubcopilot",
+    "name": "GitHub Copilot",
+    "domain": "github.com",
+    "price": 1500,
+    "category": "AI・生産性ツール"
+  },
+  {
+    "id": "p_suno",
+    "name": "Suno",
+    "domain": "suno.com",
+    "price": 1500,
+    "category": "AI・生産性ツール"
+  },
+  {
+    "id": "p_elevenlabs",
+    "name": "ElevenLabs",
+    "domain": "elevenlabs.io",
+    "price": 750,
+    "category": "AI・生産性ツール"
+  },
+  {
+    "id": "p_notionai",
+    "name": "Notion AI",
+    "domain": "notion.so",
+    "price": 1500,
+    "category": "AI・生産性ツール"
+  },
+  {
+    "id": "p_runway",
+    "name": "Runway",
+    "domain": "runwayml.com",
+    "price": 2300,
+    "category": "AI・生産性ツール"
+  },
+  {
+    "id": "p_xpremium",
+    "name": "X Premium",
+    "domain": "x.com",
+    "price": 980,
+    "category": "SNS・コミュニティ"
+  },
+  {
+    "id": "p_discordnitro",
+    "name": "Discord Nitro",
+    "domain": "discord.com",
+    "price": 1280,
+    "category": "SNS・コミュニティ"
+  },
+  {
+    "id": "p_pairs",
+    "name": "Pairs",
+    "domain": "pairs.lv",
+    "price": 4590,
+    "category": "SNS・コミュニティ"
+  },
+  {
+    "id": "p_tindergold",
+    "name": "Tinder Gold",
+    "domain": "tinder.com",
+    "price": 5900,
+    "category": "SNS・コミュニティ"
+  },
+  {
+    "id": "p_snapchatplus",
+    "name": "Snapchat+",
+    "domain": "snapchat.com",
+    "price": 500,
+    "category": "SNS・コミュニティ"
+  }
+]
