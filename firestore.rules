@@ -1,0 +1,42 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    // ユーザー本人のデータ（サブスク・カレンダー・通知設定など、
+    // index.html側のCLOUD_SYNCED_BASE_KEYSに対応するフィールド群）。
+    // 本人のみ読み書き可能。
+    match /users/{uid} {
+      allow read, write: if request.auth != null && request.auth.uid == uid;
+
+      // この端末で有効化したプッシュ通知(FCM)トークンの保存先。
+      // 本人のみ読み書き可能（サーバー側のCloud Functionsはpush.jsが
+      // Admin SDK経由でアクセスするため、このルールの影響を受けない）。
+      match /pushTokens/{token} {
+        allow read, write: if request.auth != null && request.auth.uid == uid;
+      }
+    }
+
+    // 外部の公式価格チェック結果 (checkPrices.js が定期的に書き込む)。
+    // 誰でも読めるが、書き込みはCloud Functions(Admin SDK)経由のみ。
+    match /prices/{doc} {
+      allow read: if true;
+      allow write: if false;
+    }
+
+    // 短縮URL (index.html「短縮URL」ツール / shortlink.js が読む)。
+    // クライアントは新規作成のみ可能。読み取り・変更・削除は一切不可
+    // （読み取りはshortlink.jsがAdmin SDK経由で行うためクライアント側の
+    // 読み取り許可は不要。誰でも短縮元URLの一覧を見られる状態を避けて
+    // いる。変更・削除を禁止しているのは、共有済みのリンクが後から
+    // 書き換えられたり無効化されたりする事故を防ぐため）。
+    match /shortlinks/{id} {
+      allow read: if false;
+      allow create: if request.auth != null
+        && request.resource.data.uid == request.auth.uid
+        && request.resource.data.url is string
+        && request.resource.data.url.matches('^https?://.+')
+        && request.resource.data.keys().hasOnly(['url', 'createdAt', 'uid']);
+      allow update, delete: if false;
+    }
+  }
+}
