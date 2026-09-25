@@ -1,0 +1,122 @@
+{
+  "name": "Subox - サブスクリプション管理アプリ",
+  "short_name": "Subox",
+  "description": "Netflix・Spotifyなどのサブスクの料金・更新日をまとめて管理できる無料アプリ。AIヘルススコアで見直し候補を診断し、更新日の通知・支払いカレンダー・多通貨にも対応。登録不要ですぐに使えます。",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0f1c",
+  "theme_color": "#0a0f1c",
+  "lang": "ja",
+  "dir": "ltr",
+  "categories": [
+    "finance",
+    "productivity",
+    "utilities"
+  ],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512-maskable.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshots/desktop-home.png",
+      "sizes": "1280x800",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "ホーム画面：月々の支払額と登録中のサブスク一覧"
+    },
+    {
+      "src": "screenshots/desktop-analysis.png",
+      "sizes": "1280x800",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "分析画面：見直し候補を自動で診断"
+    },
+    {
+      "src": "screenshots/mobile-home.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "ホーム画面"
+    },
+    {
+      "src": "screenshots/mobile-calendar.png",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "支払いカレンダー"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "サブスクを追加",
+      "short_name": "追加",
+      "description": "新しいサブスクを登録します",
+      "url": "./index.html?action=add",
+      "icons": [
+        {
+          "src": "shortcuts/add.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "支払いカレンダー",
+      "short_name": "カレンダー",
+      "description": "支払い予定をカレンダーで確認します",
+      "url": "./index.html?action=calendar",
+      "icons": [
+        {
+          "src": "shortcuts/calendar.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "分析を見る",
+      "short_name": "分析",
+      "description": "ヘルススコアと見直し候補を確認します",
+      "url": "./index.html?action=analysis",
+      "icons": [
+        {
+          "src": "shortcuts/analysis.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "節約目標",
+      "short_name": "節約目標",
+      "description": "節約目標の達成度を確認します",
+      "url": "./index.html?action=goal",
+      "icons": [
+        {
+          "src": "shortcuts/goal.png",
+          "sizes": "96x96",
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
